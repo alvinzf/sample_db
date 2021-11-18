@@ -7,3 +7,6 @@ Table Description
  - The `locations` table stores the location of the departments of the company.
  - The `countries` table stores the data of countries where the company is doing business.
  - The `regions` table stores the data of regions such as Asia, Europe, America, and the Middle East and Africa. The countries are grouped into regions.
+## How to use?
+1. run create_new_table
+2. run insert_.._data
