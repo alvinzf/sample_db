@@ -1,1 +1,1 @@
-# sample_db
+#Sample Database
